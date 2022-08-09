@@ -10,4 +10,4 @@
 
 <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sailab-banik&show_icons=true&locale=en&layout=compact" alt="sailab-banik" />
 
-<img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=sailab-banik&theme=default&show_icons=true" alt="sailab-banik" />
+<img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=sailab-banik&theme=default&show_icons=true" alt="sailab-banik" />
